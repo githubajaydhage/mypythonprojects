@@ -92,7 +92,7 @@ class bot:
 
 
 def init():
-	bot('_python_projects', 'Pythonprojects@123', user, message_)
+	bot('_python_projects', 'password', user, message_)
 
 	# when our program ends it will show "done".
 	input("DONE")
